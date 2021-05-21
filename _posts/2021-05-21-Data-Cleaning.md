@@ -73,6 +73,7 @@ df.dropna(how='all')
 | 1 | 4.0   | 5.0   | NaN
 
 컬럼을 제외시키는 방법도 동일하게 동작하며 옵션으로 axis=1을 사용한다.
+
 ```python
 df[3] = np.nan
 df
