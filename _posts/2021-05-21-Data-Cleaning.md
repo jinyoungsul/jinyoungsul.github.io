@@ -25,16 +25,12 @@ df
 | 1 | orange | NaN    |
 | 2 | banana | 3000.0 |
 
-| Default aligned | Left aligned | Center aligned  | Right aligned  |
-|-----------------|:-------------|:---------------:|---------------:|
-| First body part | Second cell  | Third cell      | fourth cell    |
-| Second line     | foo          | **strong**      | baz            |
-| Third line      | quux         | baz             | bar            |
-|-----------------+--------------+-----------------+----------------|
-| Second body     |              |                 |                |
-| 2nd line        |              |                 |                |
-|-----------------+--------------+-----------------+----------------|
-| Third body      |              |                 | Foo            |
+|                 | name         | price           | 
+|-----------------|:-------------|:---------------:|
+| 0               | apple        | 2500.0          |
+|1                | orange       | NaN             |
+|2                | banana       | 3000.0          |
+
 
 ```python
 df.isnull().sum()
