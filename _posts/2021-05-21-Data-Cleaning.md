@@ -1,4 +1,19 @@
-﻿## 누락된 데이터 처리하기 isnull
+---
+title: pandas 결측치 처리
+tags: 
+  - isnull
+  - dropna
+  - fillna
+  - python
+  - datascience
+  - pandas
+  - 결측치처리
+categories: pandas
+date: '2021-05-21'
+
+---
+
+## 누락된 데이터 처리하기 isnull
 산술 데이터에 한해 pandas는 누락된 데이터를 실수값인 NaN으로 취급한다. 이 특성을 이용해 데이터의 type이 float이라면 누락된 데이터가 있는지 의심을 가질 수 있습니다.
 ```python
 df = pd.DataFrame([['apple',2500],['orange',np.nan],['banana',3000]],columns=['name','price'])
