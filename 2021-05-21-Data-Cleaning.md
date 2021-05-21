@@ -83,9 +83,9 @@ df.fillna(5)
 df[0].fillna(df[0].mean())
 ```
 >0    1.0
-1    4.0
-2    2.5
-Name: 0, dtype: float64
+>1    4.0
+>2    2.5
+>Name: 0, dtype: float64
 
 문자열의 데이터의 경우 Series의 value_counts()메소드를 이용해서 최빈값의 데이터를 넣어주는것도 하나의 아이디어이다.
 ```python
@@ -103,7 +103,7 @@ df
 df['type'].fillna(df['type'].value_counts().index[0])
 ```
 >0    bike
-1     bus
-2    bike
-3    bike
-Name: type, dtype: object
+>1     bus
+>2    bike
+>3    bike
+>Name: type, dtype: object
