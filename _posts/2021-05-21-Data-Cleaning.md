@@ -3,8 +3,6 @@ title: pandas 결측치 처리
 tags: isnull dropna fillna python datascience pandas 결측치처리
 categories: pandas
 date: '2021-05-21'
-extensions:
-  preset: gfm
 
 ---
 
@@ -103,7 +101,7 @@ df
 <td>3.0</td>
 </tr>
 </tbody>
-</table><p>how='all' 옵션을 사용하면 모두 NA값인 로우만 제외시킵니다.</p>
+</table><p>how=‘all’ 옵션을 사용하면 모두 NA값인 로우만 제외시킵니다.</p>
 <pre class=" language-python"><code class="prism  language-python">df<span class="token punctuation">.</span>dropna<span class="token punctuation">(</span>how<span class="token operator">=</span><span class="token string">'all'</span><span class="token punctuation">)</span>
 </code></pre>
 
