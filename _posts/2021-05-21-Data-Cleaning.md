@@ -20,9 +20,11 @@ df = pd.DataFrame([['apple',2500],['orange',np.nan],['banana',3000]],columns=['n
 df
 ```
 |   |name    |price   |
-|---|--------|--------|
+|---|:-------|:-------|
 | 0 | apple  | 2500.0 |
+|---+--------+--------|
 | 1 | orange | NaN    |
+|---+--------+--------|
 | 2 | banana | 3000.0 |
 
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
