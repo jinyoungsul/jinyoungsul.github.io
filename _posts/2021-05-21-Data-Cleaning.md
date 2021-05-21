@@ -8,6 +8,7 @@ tags:
   - datascience
   - pandas
   - 결측치처리
+  - update
 categories: pandas
 date: '2021-05-21'
 
