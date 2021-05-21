@@ -1,6 +1,6 @@
 ---
 title: pandas 결측치 처리
-tags: 'isnull,dropna,fillna,python,datascience,pandas,결측치 처리'
+tags: 'isnull, dropna, fillna, python, datascience, pandas, 결측치처리'
 categories: pandas
 date: '2021-05-21'
 
