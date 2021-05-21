@@ -1,15 +1,14 @@
-<!DOCTYPE html>
-<html>
+---
+title: pandas 결측치 처리
+tags: isnull dropna fillna python datascience pandas 결측치처리
+categories: pandas
+date: '2021-05-21'
+extensions:
+  preset: commonmark
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2021-05-21-Data-Cleaning</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
+---
 
-<body class="stackedit">
-  <div class="stackedit__html"><h2 id="누락된-데이터-처리하기-isnull">누락된 데이터 처리하기 isnull</h2>
+<h2 id="누락된-데이터-처리하기-isnull">누락된 데이터 처리하기 isnull</h2>
 <p>산술 데이터에 한해 pandas는 누락된 데이터를 실수값인 NaN으로 취급한다. 이 특성을 이용해 데이터의 type이 float이라면 누락된 데이터가 있는지 의심을 가질 수 있습니다.</p>
 <pre class=" language-python"><code class="prism  language-python">df <span class="token operator">=</span> pd<span class="token punctuation">.</span>DataFrame<span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token punctuation">[</span><span class="token string">'apple'</span><span class="token punctuation">,</span><span class="token number">2500</span><span class="token punctuation">]</span><span class="token punctuation">,</span><span class="token punctuation">[</span><span class="token string">'orange'</span><span class="token punctuation">,</span>np<span class="token punctuation">.</span>nan<span class="token punctuation">]</span><span class="token punctuation">,</span><span class="token punctuation">[</span><span class="token string">'banana'</span><span class="token punctuation">,</span><span class="token number">3000</span><span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">,</span>columns<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">'name'</span><span class="token punctuation">,</span><span class="token string">'price'</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
 df
@@ -103,7 +102,4 @@ df
 3    bike
 Name: type, dtype: object</p>
 </blockquote>
-</div>
-</body>
 
-</html>
