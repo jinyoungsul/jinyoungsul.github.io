@@ -84,6 +84,7 @@ df
 | 0 | 1.0   | 2.0   | 3.0 | NaN
 | 1 | 4.0   | 5.0   | NaN | NaN
 | 2 | NaN   | NaN   | NaN | NaN
+
 ```python
 df.dropna(how='all', axis=1)
 ```
