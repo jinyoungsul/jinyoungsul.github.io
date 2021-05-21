@@ -19,8 +19,8 @@ date: '2021-05-21'
 df = pd.DataFrame([['apple',2500],['orange',np.nan],['banana',3000]],columns=['name','price'])
 df
 ```
-| 1  |name    |price   |
-|-- |--      |--      |
+|   |name    |price   |
+|---|--------|--------|
 | 0 | apple  | 2500.0 |
 | 1 | orange | NaN    |
 | 2 | banana | 3000.0 |
