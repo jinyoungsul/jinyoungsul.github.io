@@ -213,6 +213,7 @@ key1_key2_df.sort_values(by='len',ascending=False)
 ```python
 key1_key2_df.sort_index(ascending=False)
 ```
+
 |         |key1  |key2   |len |
 |-----    |------|-----  |----|
 |**4**    |   c  | three | 1  |
