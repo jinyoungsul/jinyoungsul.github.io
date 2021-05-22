@@ -1,4 +1,16 @@
-﻿## 그룹 분석 groupby, agg
+---
+title: pandas groupby,agg,sort_values,sort_index
+tags: 
+  - python
+  - datascience
+  - pandas
+  
+categories: pandas
+date: '2021-05-22'
+
+---
+
+## 그룹 분석 groupby, agg
 우리는 데이터를 그룹화 한 다음 데이터가 속한 그룹에 특정한 작업을 수행할 수 있습니다. 
 해당 작업은 groupby() 연산을 통해 수행합니다.
 
