@@ -1,4 +1,16 @@
-﻿## 데이터 인덱스, 열 이름 변경 rename
+---
+title: pandas rename, concat, join
+tags: 
+  - python
+  - datascience
+  - pandas
+  
+categories: pandas
+date: '2021-05-24'
+
+---
+
+## 데이터 인덱스, 열 이름 변경 rename
 
 종종 데이터는 만족스럽지 않은 열 이름, 인덱스 이름으로 우리에게 제공됩니다. 이 경우 rename 함수를 사용하여 문제가 되는 항목의 이름을 더 나은 이름으로 변경할 수 있습니다.
 
