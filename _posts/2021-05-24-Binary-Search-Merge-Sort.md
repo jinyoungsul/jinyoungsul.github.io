@@ -1,4 +1,16 @@
-﻿## 이분탐색
+---
+title: 이분탐색, 합병정렬
+tags: 
+  - python
+  - algorithm
+  
+categories: 
+    - algorithm
+date: '2021-05-24'
+
+---
+
+## 이분탐색
 ```python
 s = [10,12,13,14,18,20,25,27,30,35,40,45,47]
 s
