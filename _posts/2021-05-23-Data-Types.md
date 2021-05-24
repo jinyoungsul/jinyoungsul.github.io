@@ -1,4 +1,16 @@
-﻿## 데이터 타입 dtype, info
+---
+title: pandas dtype, info
+tags: 
+  - python
+  - datascience
+  - pandas
+  
+categories: pandas
+date: '2021-05-23'
+
+---
+
+## 데이터 타입 dtype, info
 
 DataFrame 또는 Series의 열에 대한 데이터 유형을 dtype이라고 합니다.
 
