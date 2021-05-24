@@ -33,6 +33,7 @@ rename()으로 인덱스 이름 및 열 이름을 변경할 수 있습니다.
 ```python
 df.rename(columns={'key':'key2'})
 ```
+
 |   | key2  | data  |
 |---|------|-------|
 | 0 | a    | 1     |
