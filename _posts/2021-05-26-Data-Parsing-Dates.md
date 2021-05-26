@@ -93,3 +93,9 @@ day_df
 4    15
 Name: date_parsed, dtype: int64
 ```
+
+---
+layout: default
+comments: true
+# other options
+---
