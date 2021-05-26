@@ -1,4 +1,18 @@
-﻿## Scaling vs Normalization
+---
+title: Data Scaling, Normalization
+tags: 
+  - python
+  - datascience
+  - pandas
+  - sklearn
+categories: 
+  - pandas
+  - sklearn
+date: '2021-05-26'
+
+---
+
+## Scaling vs Normalization
 스케일링과 정규화를 혼동하기 쉬운 이유 중 하나는 용어가 때때로 같은 의미로 사용되어 혼동되기 때문이다.
 두 경우 모두 변환 된 데이터 포인트가 유용한 특정 속성을 갖도록 숫자 변수의 값을 변환한다. 차이점은 다음과 같다.
 
@@ -17,7 +31,7 @@ SVM (Support Vector Machine) 또는 KNN (k-nearest neighbors)과 같이 데이�
 import pandas as pd
 import numpy as np
 
-from sklearn.preprocessing import StandardScaler,MinMaxScaler,power_transform
+from sklearn.preprocessing import MinMaxScaler,power_transform
 
 # plotting modules
 import seaborn as sns
