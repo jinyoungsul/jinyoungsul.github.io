@@ -1,4 +1,16 @@
-﻿## Pandas Parsing Dates
+---
+title: Pandas Parsing Dates
+tags: 
+  - python
+  - datascience
+  - pandas
+categories: 
+  - pandas
+date: '2021-05-26'
+
+---
+
+## Pandas Parsing Dates
 
 ```python
 import pandas as pd
