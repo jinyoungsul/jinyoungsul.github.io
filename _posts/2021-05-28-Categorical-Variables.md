@@ -1,4 +1,17 @@
-﻿# Categorical variables
+---
+title: Categorical variables
+tags: 
+  - python
+  - datascience
+  - pandas
+categories: 
+  - pandas
+  - 
+date: '2021-05-28'
+
+---
+
+# Categorical variables
 
 범주형 변수는 제한된 수의 값만 사용한다.
 
