@@ -104,7 +104,7 @@ Categorical variables:
 
 ### 각 접근 방식의 품질을 측정하는 함수 정의
 
-범주형 변수를 처리하는 세 가지 다른 접근 방식을 비교하기 위해 함수를 정의합니다. 이 함수는 random forest model에서 [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)를 통해 측정하고 MAE값이 가능한 낮기를 원합니다.
+범주형 변수를 처리하는 세 가지 다른 접근 방식을 비교하기 위해 함수를 정의합니다. 이 함수는 random forest model에서 <a href="https://en.wikipedia.org/wiki/Mean_absolute_error" target="_blank"> [MAE] </a>를 통해 측정하고 MAE값이 가능한 낮기를 원합니다.
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
