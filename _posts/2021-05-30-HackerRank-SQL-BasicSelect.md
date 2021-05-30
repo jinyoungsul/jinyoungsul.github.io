@@ -1,5 +1,6 @@
 ---
-title: HackerRank-BasicSelect
+title: HackerRank-BasicSelect-Revising the Select Query II
+
 tags: 
   - sql
 categories: 
