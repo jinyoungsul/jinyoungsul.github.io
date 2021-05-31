@@ -1,4 +1,4 @@
-﻿---
+---
 title: HackerRank-BasicSelect-Select All
 
 tags: 
