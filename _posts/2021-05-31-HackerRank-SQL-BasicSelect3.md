@@ -1,13 +1,10 @@
 ﻿---
-
 title: HackerRank-BasicSelect-Select All
 
 tags: 
-  - sql
-  
+  - sql  
 categories: 
   - sql
-
 date: '2021-05-31'
 
 ---
