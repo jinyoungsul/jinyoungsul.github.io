@@ -1,4 +1,18 @@
-﻿# 오버피팅(Overfitting) and 언더피팅(Underfitting)
+---
+title : 오버피팅 and 언더피팅
+
+tags:
+    - python
+    - datascience
+    - pandas
+    - sklearn
+categories:
+    - pandas
+    - sklearn
+date: '2021-05-31'
+
+---
+# 오버피팅(Overfitting) and 언더피팅(Underfitting)
 
 ![Depth 2 Tree](http://i.imgur.com/R3ywQsR.png)
 
