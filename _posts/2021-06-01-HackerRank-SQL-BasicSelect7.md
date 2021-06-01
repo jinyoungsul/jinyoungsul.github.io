@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 1
+---
+title : HackerRank-BasicSelect-Weather Observation Station 1
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-01'
+
+---
+
+# Weather Observation Station 1
 
 
 Query a list of **CITY** and **STATE** from the **STATION** table.  
