@@ -1,4 +1,15 @@
-﻿# Japanese Cities' Attributes
+---
+title : HackerRank-BasicSelect-Japanese Cities' Attributes
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-01'
+
+---
+
+# Japanese Cities' Attributes
 
 Query all attributes of every Japanese city in the  **CITY**  table. The  **COUNTRYCODE**  for Japan is  `JPN`.
 
