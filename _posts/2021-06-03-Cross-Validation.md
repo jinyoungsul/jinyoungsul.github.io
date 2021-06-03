@@ -1,4 +1,19 @@
-﻿# 소개
+---
+title : 교차검증 (Cross-Validation)
+
+tags:
+    - python
+    - datascience
+    - pandas
+    - sklearn
+categories:
+    - pandas
+    - sklearn
+date: '2021-06-03'
+
+---
+
+# 소개
 머신러닝은 반복적인 과정입니다.
 
 우리는 사용할 예측 변수, 사용할 모델 유형, 해당 모델에 제공 할 파라미터 등에 대한 선택을 해야합니다. 지금까지 유효성 검사를 통해 모델 품질을 측정하여 데이터 중심 방식으로 이러한 선택을했습니다.
