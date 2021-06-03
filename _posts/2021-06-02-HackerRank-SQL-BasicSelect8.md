@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 3
+---
+title : HackerRank-BasicSelect-Weather Observation Station 3
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-03'
+
+---
+
+# Weather Observation Station 3
 
 
 Query a list of **CITY** names from **STATION** for cities that have an even **ID** number. Print the results in any order, but exclude duplicates from the answer.  
