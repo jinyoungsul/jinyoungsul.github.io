@@ -1,4 +1,4 @@
-﻿---
+---
 title : HackerRank-BasicSelect-Weather Observation Station 4
 
 tags:
