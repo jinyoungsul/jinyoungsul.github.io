@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 6
+---
+title : HackerRank-BasicSelect-Weather Observation Station 6
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-06'
+
+---
+
+# Weather Observation Station 6
 
 
 Query the list of  _CITY_  names starting with vowels (i.e.,  `a`,  `e`,  `i`,  `o`, or  `u`) from  **STATION**. Your result  _cannot_  contain duplicates.
