@@ -68,7 +68,7 @@ y = data.Price
 rf = RandomForestRegressor(n_estimators=50, random_state=0)
 
 # Multiply by -1 since sklearn calculates *negative* MAE
-scores = -1 * cross_val_score(my_pipeline, X, y,
+scores = -1 * cross_val_score(rf, X, y,
                               cv=5,
 scoring='neg_mean_absolute_error')
 
