@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 10
+---
+title : HackerRank-BasicSelect-Weather Observation Station 10
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-15'
+
+---
+
+# Weather Observation Station 10
 
 
 
