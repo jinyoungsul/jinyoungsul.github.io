@@ -37,6 +37,7 @@ PCA는 데이터에서 중요한 관계를 발견하는데 도움이되는 훌�
 df["Size"] = 0.707 * X["Height"] + 0.707 * X["Diameter"]
 df["Shape"] = 0.707 * X["Height"] - 0.707 * X["Diameter"]
 ```
+
 이러한 새로운 특성을 데이터의 주요 구성 요소(principan components)라고합니다. 또한 가중치 자체를 `'로딩'`이라고합니다.
 
 # PCA for Feature Engineering
@@ -54,13 +55,13 @@ Feature Engineering에 PCA를 사용할 수 있는 방법은 두 가지입니다
 
 
 <blockquote style="margin-right:auto; margin-left:auto; background-color: #ebf9ff; padding: 1em; margin:24px;">
-<strong>PCA Best Practices</strong><br>
-다음은 PCA를 적용 할 때 염두에 두어야 할 몇가지 사항입니다.:
-<ul>
-<li> PCA는 연속적인 수량 또는 개수와 같은 숫자 특성에서만 작동합니다.
-<li> PCA는 scale에 민감합니다. 타당한 이유가 없는한 PCA를 적용하기 전에 데이터를 표준화하는 것이 좋습니다.
-<li> 결과에 과도한 영향을 미칠 수 있으므로 이상값을 제거하거나 제한하는 것이 좋습니다.
-</ul>
+  <strong>PCA Best Practices</strong><br>
+  다음은 PCA를 적용 할 때 염두에 두어야 할 몇가지 사항입니다.:
+  <ul>
+    <li> PCA는 연속적인 수량 또는 개수와 같은 숫자 특성에서만 작동합니다.
+    <li> PCA는 scale에 민감합니다. 타당한 이유가 없는한 PCA를 적용하기 전에 데이터를 표준화하는 것이 좋습니다.
+    <li> 결과에 과도한 영향을 미칠 수 있으므로 이상값을 제거하거나 제한하는 것이 좋습니다.
+  </ul>
 </blockquote>
 
 # 예제 - 1985 Automobiles
