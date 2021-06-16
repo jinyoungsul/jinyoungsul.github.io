@@ -1,4 +1,17 @@
-﻿# 주성분 분석 (PCA)
+---
+title: 주성분 분석 - PCA
+tags: 
+  - python
+  - datascience
+  - pandas
+  - sklearn
+categories: 
+  - sklearn
+date: '2021-06-17'
+
+---
+
+# 주성분 분석 (PCA)
 
 PCA는 데이터에서 중요한 관계를 발견하는데 도움이되는 훌륭한 도구이며 더 많은 특성을 만드는데 사용할 수도 있습니다.
 
