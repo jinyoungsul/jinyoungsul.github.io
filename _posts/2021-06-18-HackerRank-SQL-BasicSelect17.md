@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 12
+---
+title : HackerRank-BasicSelect-Weather Observation Station 12
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-17'
+
+---
+
+# Weather Observation Station 12
 
 
 Query the list of  _CITY_  names from  **STATION**  that  _do not start_  with vowels and  _do not end_  with vowels. Your result cannot contain duplicates.
