@@ -1,4 +1,17 @@
-﻿# 주성분 분석 (PCA)
+---
+title: 주성분 분석 - PCA
+tags: 
+  - python
+  - datascience
+  - pandas
+  - sklearn
+categories: 
+  - sklearn
+date: '2021-06-17'
+
+---
+
+# 주성분 분석 (PCA)
 
 PCA는 데이터에서 중요한 관계를 발견하는데 도움이되는 훌륭한 도구이며 더 많은 특성을 만드는데 사용할 수도 있습니다.
 
@@ -24,6 +37,7 @@ PCA는 데이터에서 중요한 관계를 발견하는데 도움이되는 훌�
 df["Size"] = 0.707 * X["Height"] + 0.707 * X["Diameter"]
 df["Shape"] = 0.707 * X["Height"] - 0.707 * X["Diameter"]
 ```
+
 이러한 새로운 특성을 데이터의 주요 구성 요소(principan components)라고합니다. 또한 가중치 자체를 `'로딩'`이라고합니다.
 
 # PCA for Feature Engineering
@@ -39,16 +53,14 @@ Feature Engineering에 PCA를 사용할 수 있는 방법은 두 가지입니다
 - 노이즈 감소 (Noise reduction) : 센서 판독 값의 모음은 종종 공통적인 배경 노이즈를 공유합니다. PCA는 때때로 유익한 신호를 더 적은 수의 기능으로 수집하고 노이즈는 그대로 두어 신호 대 노이즈 비율을 높일 수 있습니다.
 - 역 상관 (Decorrelation) : 일부 ML 알고리즘은 상관 관계가 높은 특성으로 어려움을 겪습니다. PCA는 상관 관계가 있는 특성을 상관 관계가 없는 구성 요소로 변환하므로 알고리즘이 더 쉽게 작동 할 수 있습니다.
 
+**PCA Best Practices**
 
-<blockquote style="margin-right:auto; margin-left:auto; background-color: #ebf9ff; padding: 1em; margin:24px;">
-<strong>PCA Best Practices</strong><br>
 다음은 PCA를 적용 할 때 염두에 두어야 할 몇가지 사항입니다.:
-<ul>
-<li> PCA는 연속적인 수량 또는 개수와 같은 숫자 특성에서만 작동합니다.
-<li> PCA는 scale에 민감합니다. 타당한 이유가 없는한 PCA를 적용하기 전에 데이터를 표준화하는 것이 좋습니다.
-<li> 결과에 과도한 영향을 미칠 수 있으므로 이상값을 제거하거나 제한하는 것이 좋습니다.
-</ul>
-</blockquote>
+- PCA는 연속적인 수량 또는 개수와 같은 숫자 특성에서만 작동합니다.
+- PCA는 scale에 민감합니다. 타당한 이유가 없는한 PCA를 적용하기 전에 데이터를 표준화하는 것이 좋습니다.
+- 결과에 과도한 영향을 미칠 수 있으므로 이상값을 제거하거나 제한하는 것이 좋습니다.
+
+
 
 # 예제 - 1985 Automobiles
 
