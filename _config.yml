@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "JINYOUNG SUL"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "데이터 속에 답이 있다."
   links:
 #    - label: "Website"
