@@ -1,4 +1,15 @@
-﻿# Higher Than 75 Marks - substr, length
+---
+title : HackerRank-BasicSelect-Higher Than 75 Marks - substr, length
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-20'
+
+---
+
+# Higher Than 75 Marks - substr, length
 
 Query the _Name_ of any student in **STUDENTS** who scored higher than _Marks_. Order your output by the _last three characters_ of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending _ID_.
 
