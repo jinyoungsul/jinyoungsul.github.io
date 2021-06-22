@@ -1,4 +1,15 @@
-﻿# Employee Names - order by
+---
+title : HackerRank-BasicSelect-Employee Names - order by
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-22'
+
+---
+
+# Employee Names - order by
 
 Write a query that prints a list of employee names (i.e.: the  _name_  attribute) from the  **Employee**  table in alphabetical order.
 
