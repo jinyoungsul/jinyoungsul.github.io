@@ -1,4 +1,15 @@
-﻿# # # Type of Triangle - case when
+---
+title : HackerRank-AdvancedSelect-Type of Triangle - case when
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-26'
+
+---
+
+# Type of Triangle - case when
 
 
 Write a query identifying the  _type_  of each record in the  **TRIANGLES**  table using its three side lengths. Output one of the following statements for each record in the table:
