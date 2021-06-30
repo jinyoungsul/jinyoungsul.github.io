@@ -1,4 +1,15 @@
-﻿# Occupations - pivot, row_number
+---
+title : HackerRank-AdvancedSelect-Occupations - pivot, row_number
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-30'
+
+---
+
+# Occupations - pivot, row_number
 
 
 [Pivot](https://en.wikipedia.org/wiki/Pivot_table)  the  _Occupation_  column in  **OCCUPATIONS**  so that each  _Name_  is sorted alphabetically and displayed underneath its corresponding  _Occupation_. The output column headers should be  _Doctor_,  _Professor_,  _Singer_, and  _Actor_, respectively.
