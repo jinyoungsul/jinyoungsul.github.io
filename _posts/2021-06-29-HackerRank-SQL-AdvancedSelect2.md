@@ -1,4 +1,15 @@
-﻿# The PADS
+---
+title : HackerRank-AdvancedSelect-The PADS
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-06-29'
+
+---
+
+# The PADS
 
 
 
