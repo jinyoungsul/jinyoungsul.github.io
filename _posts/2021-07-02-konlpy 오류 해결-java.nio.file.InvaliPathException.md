@@ -1,4 +1,15 @@
-﻿# konlpy 오류해결-java.nio.file.InvaliPathException
+---
+title : konlpy 오류해결-java.nio.file.InvaliPathException
+
+tags:
+    - konlpy
+categories:
+    - 오류해결 
+date: '2021-07-02'
+
+---
+
+# konlpy 오류해결-java.nio.file.InvaliPathException
 
 jdk, Jpype, konlpy를 주피터 노트북에 설치 후 실행 테스트를 하려고 했는데 오류가 발생하였다. 
 ```python
