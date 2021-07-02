@@ -25,11 +25,13 @@ print(kkma.pos('한국어의 문장 분석. konlpy를 이용합니다.'))
 ![](https://i.imgur.com/60zNvP0.png)
 
 **해결방법**
+
 konlpy 패키지가 설치되어 있는 폴더에 가면 jvm.py 파일이 있는데 소스코드를 수정하고 커널을 리스타트해서 테스트한다.
 
 ![](https://i.imgur.com/cY8az1k.png)
 
 **결과**
+
 ![](https://i.imgur.com/ivamNfA.png)
 
 
