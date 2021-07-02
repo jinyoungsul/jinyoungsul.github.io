@@ -1,4 +1,15 @@
-﻿# Binary Tree Nodes
+---
+title : HackerRank-AdvancedSelect-Binary Tree Nodes
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-01'
+
+---
+
+# Binary Tree Nodes
 
 You are given a table, _BST_, containing two columns: _N_ and _P,_ where _N_ represents the value of a node in _Binary Tree_, and _P_ is the parent of _N_.
 
