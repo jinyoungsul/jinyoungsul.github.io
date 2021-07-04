@@ -1,4 +1,15 @@
-﻿# New Companies
+---
+title : HackerRank-AdvancedSelect-New Companies
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-04'
+
+---
+
+# New Companies
 
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy:
 
