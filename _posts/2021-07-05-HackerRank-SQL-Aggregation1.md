@@ -1,4 +1,15 @@
-﻿# Revising Aggregations - The Count Function
+---
+title : HackerRank-Aggregation-Revising Aggregations - The Count Function
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-05'
+
+---
+
+# Revising Aggregations - The Count Function
 
 
 Query a _count_ of the number of cities in **CITY** having a _Population_ larger than 100,000.
