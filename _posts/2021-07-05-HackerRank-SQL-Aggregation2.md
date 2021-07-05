@@ -1,4 +1,15 @@
-﻿# Revising Aggregations - The Sum Function
+---
+title : HackerRank-Aggregation-Revising Aggregations - The Sum Function
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-05'
+
+---
+
+# Revising Aggregations - The Sum Function
 
 
 Query the total population of all cities in  **CITY**  where  _District_  is  **California**.
