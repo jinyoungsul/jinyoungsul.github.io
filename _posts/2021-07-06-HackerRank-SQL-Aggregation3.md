@@ -1,4 +1,15 @@
-﻿# Revising Aggregations - Averages
+---
+title : HackerRank-Aggregation-Revising Aggregations - Averages
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-06'
+
+---
+
+# Revising Aggregations - Averages
 
 
 Query the average population of all cities in **CITY** where _District_ is **California**.
