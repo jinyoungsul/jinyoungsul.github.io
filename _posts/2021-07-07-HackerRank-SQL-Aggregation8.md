@@ -1,4 +1,15 @@
-﻿# Top Earners
+---
+title : HackerRank-Aggregation-Top Earners
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-07'
+
+---
+
+# Top Earners
 
 We define an employee's _total earnings_ to be their monthly **salary x months** worked, and the _maximum total earnings_ to be the maximum total earnings for any employee in the **Employee** table. Write a query to find the _maximum total earnings_ for all employees as well as the total number of employees who have maximum total earnings. Then print these values as 2 space-separated integers.
 
