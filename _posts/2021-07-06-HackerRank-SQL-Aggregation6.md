@@ -1,4 +1,15 @@
-﻿# Population Density Difference
+---
+title : HackerRank-Aggregation-Population Density Difference
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-06'
+
+---
+
+# Population Density Difference
 
 
 Query the difference between the maximum and minimum populations in **CITY**.
