@@ -1,4 +1,15 @@
-﻿# Average Population - floor
+---
+title : HackerRank-Aggregation-Average Population - floor
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-06'
+
+---
+
+# Average Population - floor
 
 
 Query the average population for all cities in **CITY**, rounded _down_ to the nearest integer.

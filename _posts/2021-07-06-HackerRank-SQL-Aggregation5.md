@@ -1,4 +1,15 @@
-﻿# Japan Population
+---
+title : HackerRank-Aggregation-Japan Population
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-06'
+
+---
+
+# Japan Population
 
 
 Query the sum of the populations for all Japanese cities in **CITY**. The _COUNTRYCODE_ for Japan is **JPN**.
