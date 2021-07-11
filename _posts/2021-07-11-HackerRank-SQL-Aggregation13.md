@@ -1,11 +1,11 @@
 ---
-title : HackerRank-Aggregation-Weather Observation Station 15
+title : HackerRank-Aggregation-Weather Observation Station 16
 
 tags:
     - sql
 categories:
     - sql 
-date: '2021-07-10'
+date: '2021-07-11'
 
 ---
 
