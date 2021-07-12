@@ -1,17 +1,17 @@
 ---
-title : HackerRank-Aggregation-Weather Observation Station 15
+title : HackerRank-Aggregation-Weather Observation Station 16
 
 tags:
     - sql
 categories:
     - sql 
-date: '2021-07-10'
+date: '2021-07-11'
 
 ---
 
 # Weather Observation Station 16
 
-Query the smallest  _Northern Latitude_  (_LAT_N_) from  **STATION**  that is greater than  . Round your answer to  decimal places.
+Query the smallest  _Northern Latitude_  (_LAT_N_) from  **STATION**  that is greater than 38.7780 . Round your answer to 4 decimal places.
 
 **Input Format**
 

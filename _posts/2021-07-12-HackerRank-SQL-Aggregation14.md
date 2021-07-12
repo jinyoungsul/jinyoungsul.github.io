@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 17
+---
+title : HackerRank-Aggregation-Weather Observation Station 17
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-12'
+
+---
+
+# Weather Observation Station 17
 
 Query the _Western Longitude_ (_LONG_W_)where the smallest _Northern Latitude_ (_LAT_N_) in **STATION** is greater than 38.7780. Round your answer to 4 decimal places.
 
