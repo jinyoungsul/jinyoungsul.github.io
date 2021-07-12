@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 18
+---
+title : HackerRank-Aggregation-Weather Observation Station 18
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-13'
+
+---
+
+# Weather Observation Station 18
 
 
 Consider **P1(a,b)** and **P2(c,d)** to be two points on a  _2D_  plane.
