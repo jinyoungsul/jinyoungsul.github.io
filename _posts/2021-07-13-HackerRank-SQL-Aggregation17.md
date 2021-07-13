@@ -1,4 +1,15 @@
-﻿# Weather Observation Station 20
+---
+title : HackerRank-Aggregation-Weather Observation Station 20
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-13'
+
+---
+
+# Weather Observation Station 20
 
 
 
