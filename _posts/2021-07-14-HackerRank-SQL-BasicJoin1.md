@@ -1,4 +1,15 @@
-﻿# Population Census
+---
+title : HackerRank-BasicJoin-Population Census
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-14'
+
+---
+
+# Population Census
 
 Given the  **CITY**  and  **COUNTRY**  tables, query the sum of the populations of all cities where the  _CONTINENT_  is  _'Asia'_.
 
