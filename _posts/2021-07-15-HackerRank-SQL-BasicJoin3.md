@@ -1,4 +1,4 @@
-﻿---
+---
 title : HackerRank-BasicJoin-Average Population of Each Continent
 
 tags:
