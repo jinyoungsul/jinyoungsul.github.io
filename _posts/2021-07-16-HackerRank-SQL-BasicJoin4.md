@@ -1,4 +1,15 @@
-﻿# The Report
+---
+title : HackerRank-BasicJoin-Average Population of Each Continent
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-15'
+
+---
+
+# The Report
 
 You are given two tables: _Students_ and _Grades_. _Students_ contains three columns _ID_, _Name_ and _Marks_.
 
