@@ -24,6 +24,7 @@ _Ketty_  gives  _Eve_  a task to generate a report containing three columns:  _N
 Write a query to help Eve.
 
 **Sample Input**
+
 ![](https://s3.amazonaws.com/hr-challenge-images/12891/1443818093-b79f376ec1-3.png)
 
 **Sample Output**
