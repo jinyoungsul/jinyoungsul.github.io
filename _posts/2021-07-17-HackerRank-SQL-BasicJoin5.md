@@ -1,4 +1,15 @@
-﻿# Top Competitors
+---
+title : HackerRank-BasicJoin-Top Competitors
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-17'
+
+---
+
+# Top Competitors
 
 
 Julia just finished conducting a coding contest, and she needs your help assembling the leaderboard! Write a query to print the respective  _hacker_id_  and  _name_  of hackers who achieved full scores for  _more than one_  challenge. Order your output in descending order by the total number of challenges in which the hacker earned a full score. If more than one hacker received full scores in same number of challenges, then sort them by ascending  _hacker_id_.
