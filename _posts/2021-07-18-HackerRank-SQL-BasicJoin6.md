@@ -1,4 +1,15 @@
-﻿# Ollivander's Inventory
+---
+title : HackerRank-BasicJoin-Ollivander's Inventory
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-18'
+
+---
+
+# Ollivander's Inventory
 
 
 
