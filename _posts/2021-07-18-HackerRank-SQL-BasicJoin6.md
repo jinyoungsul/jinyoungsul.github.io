@@ -30,10 +30,12 @@ The following tables contain data on the wands in Ollivander's inventory:
 
 **Sample Input**
 
-_Wands_  Table:  
+_Wands_  Table:
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458538559-51bf29644e-ScreenShot2016-03-21at10.34.41AM.png)  
 
-_Wands_Property_  Table:  
+_Wands_Property_  Table:
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458538583-fd514566f9-ScreenShot2016-03-21at10.34.28AM.png)
 
 **Sample Output**
@@ -57,6 +59,7 @@ The data for wands of  _age 45_  (code 1):
 -   The minimum number of galleons needed for wand(age = 45, power = 2) = 6020
 -   The minimum number of galleons needed for
 wand(age = 45, power = 10) = 1647
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458539700-2f319702ab-ScreenShot2016-03-21at11.23.06AM.png)
 
 
@@ -69,6 +72,7 @@ wand(age = 40, power = 3) = 3312
 wand(age = 40, power = 5) = 7587
 -   The minimum number of galleons needed for
 wand(age = 40, power = 7) = 6018
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458539909-ab79f7ff95-ScreenShot2016-03-21at11.23.14AM.png)
 
 
@@ -80,6 +84,7 @@ wand(age = 20, power = 5) = 504
 wand(age = 20, power = 6) = 7651
 -   The minimum number of galleons needed for
 wand(age = 20, power = 8) = 3688
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458540035-d950b9c900-ScreenShot2016-03-21at11.23.25AM.png)
 
 
@@ -89,6 +94,7 @@ The data for wands of  _age 17_  (code 5):
 wand(age = 17, power = 3) = 5689
 -   The minimum number of galleons needed for
 wand(age = 17, power = 10) = 9897
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19502/1458540132-79fd7b916b-ScreenShot2016-03-21at11.23.34AM.png)
 
 
