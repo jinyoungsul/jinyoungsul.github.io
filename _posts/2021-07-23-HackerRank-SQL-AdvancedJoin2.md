@@ -1,4 +1,15 @@
-﻿# Symmetric Pairs
+---
+title : HackerRank-AdvancedJoin-Symmetric Pairs
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-23'
+
+---
+
+# Symmetric Pairs
 
 You are given a table,  _Functions_, containing two columns:  _X_ and  _Y_.
 
