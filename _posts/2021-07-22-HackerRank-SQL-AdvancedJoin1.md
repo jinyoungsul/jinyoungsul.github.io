@@ -1,4 +1,15 @@
-﻿# Placements
+---
+title : HackerRank-AdvancedJoin-Placements
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-22'
+
+---
+
+# Placements
 
 
 You are given three tables: _Students_, _Friends_ and _Packages._  _Students_ contains two columns: _ID_ and _Name_. _Friends_ contains two columns: _ID_ and _Friend_ID_ (_ID_ of the ONLY best friend). _Packages_ contains two columns: _ID_ and _Salary_ (offered salary in $ thousands per month).
