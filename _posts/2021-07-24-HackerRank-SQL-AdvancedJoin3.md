@@ -1,4 +1,15 @@
-﻿# Interviews
+---
+title : HackerRank-AdvancedJoin-Interviews
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-24'
+
+---
+
+# Interviews
 
 Samantha interviews many candidates from different colleges using coding challenges and contests. Write a query to print the  _contest_id_,  _hacker_id_,  _name_, and the sums of  _total_submissions_,  _total_accepted_submissions_,  _total_views_, and  _total_unique_views_  for each contest sorted by  _contest_id_. Exclude the contest from the result if all four sums are 0 .
 
@@ -10,19 +21,24 @@ Samantha interviews many candidates from different colleges using coding challen
 
 The following tables hold interview data:
 
--   _Contests:_  The  _contest_id_  is the id of the contest,  _hacker_id_  is the id of the hacker who created the contest, and  _name_  is the name of the hacker. 
+-   _Contests:_  The  _contest_id_  is the id of the contest,  _hacker_id_  is the id of the hacker who created the contest, and  _name_  is the name of the hacker.
+ 
  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458517426-e017c3460e-ScreenShot2016-03-21at4.57.47AM.png)
     
--   _Colleges:_  The  _college_id_  is the id of the college, and  _contest_id_  is the id of the contest that Samantha used to screen the candidates. 
+-   _Colleges:_  The  _college_id_  is the id of the college, and  _contest_id_  is the id of the contest that Samantha used to screen the candidates.
+ 
  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458517503-fd4aa63111-ScreenShot2016-03-21at4.57.56AM.png)
     
--   _Challenges:_  The  _challenge_id_  is the id of the challenge that belongs to one of the contests whose contest_id Samantha forgot, and  _college_id_  is the id of the college where the challenge was given to candidates. 
+-   _Challenges:_  The  _challenge_id_  is the id of the challenge that belongs to one of the contests whose contest_id Samantha forgot, and  _college_id_  is the id of the college where the challenge was given to candidates.
+ 
  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458517661-a642f750ce-ScreenShot2016-03-21at4.58.04AM.png)
     
 -   _View_Stats:_  The  _challenge_id_  is the id of the challenge,  _total_views_  is the number of times the challenge was viewed by candidates, and  _total_unique_views_  is the number of times the challenge was viewed by unique candidates.
+
   ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458517983-b4302286a8-ScreenShot2016-03-21at4.58.15AM.png)
     
 -   _Submission_Stats:_  The  _challenge_id_  is the id of the challenge,  _total_submissions_  is the number of submissions for the challenge, and  _total_accepted_submission_  is the number of submissions that achieved full scores.
+
 ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458518090-80983c916a-ScreenShot2016-03-21at4.58.27AM.png)
     
 ----------
@@ -30,19 +46,24 @@ The following tables hold interview data:
 **Sample Input**
 
 _Contests_  Table:
-  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519044-d788f8a6ee-ScreenShot2016-03-21at4.58.39AM.png)  
+
+![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519044-d788f8a6ee-ScreenShot2016-03-21at4.58.39AM.png)  
 
 _Colleges_  Table:
-  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519098-912836d6ac-ScreenShot2016-03-21at4.59.22AM.png)  
+
+![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519098-912836d6ac-ScreenShot2016-03-21at4.59.22AM.png)  
 
 _Challenges_  Table:
-    ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519120-c531743caf-ScreenShot2016-03-21at4.59.32AM.png)  
+
+![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519120-c531743caf-ScreenShot2016-03-21at4.59.32AM.png)  
 
 _View_Stats_  Table:
-  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519152-107a67866b-ScreenShot2016-03-21at4.59.43AM.png)  
+
+![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519152-107a67866b-ScreenShot2016-03-21at4.59.43AM.png)  
 
 _Submission_Stats_  Table:
-  ![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519173-091aba871a-ScreenShot2016-03-21at4.59.55AM.png)
+
+![](https://s3.amazonaws.com/hr-challenge-images/19596/1458519173-091aba871a-ScreenShot2016-03-21at4.59.55AM.png)
 
 **Sample Output**
 
