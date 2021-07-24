@@ -1,4 +1,15 @@
-﻿
+---
+title : HackerRank-SQL Project Planning
+
+tags:
+    - sql
+categories:
+    - sql 
+date: '2021-07-25'
+
+---
+
+
 # SQL Project Planning
 
 You are given a table,  _Projects_, containing three columns:  _Task_ID_,  _Start_Date_  and  _End_Date_. It is guaranteed that the difference between the  _End_Date_  and the  _Start_Date_  is equal to  _1_  day for each row in the table.
